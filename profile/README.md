@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SNNUAIXLab/.github/main/profile/assets/aixlab-logo.png?v=20261116" width="144" height="144" alt="AIxLab 实验室标识">
 </p>
 
-<h1 align="center">AIxLab · 艾克斯实验室</h1>
+<h1 align="center">AIxLab · 爱可思实验室</h1>
 <p align="center">Artificial Intelligence eXtended</p>
 <p align="center">陕西师范大学 · 人工智能与计算机学院</p>
 <p align="center">
