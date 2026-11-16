@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNNUAIXLab/.github/main/profile/assets/aixlab-logo.png" width="144" height="144" alt="AIxLab 实验室标识">
+  <img src="https://raw.githubusercontent.com/SNNUAIXLab/.github/main/profile/assets/aixlab-logo.png?v=20261116" width="144" height="144" alt="AIxLab 实验室标识">
 </p>
 
 <h1 align="center">AIxLab · 艾克斯实验室</h1>
